@@ -1,9 +1,9 @@
 package ch02.sec01;
 
 
-// »ó¼ö : Á¤ÇØÁø °ªÀ» °¡Áö¸ç, ÇÁ·Î±×·¥ ½ÇÇà Áß¿¡ °ªÀÌ º¯ÇÏÁö ¾ÊÀ½
-// final Å°¿öµå »ç¿ë
-// °ü·ÊÀûÀ¸·Î ´ë¹®ÀÚ·Î ¼±¾ğ
+// ìƒìˆ˜ : ì •í•´ì§„ ê°’ì„ ê°€ì§€ë©°, í”„ë¡œê·¸ë¨ ì‹¤í–‰ ì¤‘ì— ê°’ì´ ë³€í•˜ì§€ ì•ŠìŒ
+// final í‚¤ì›Œë“œ ì‚¬ìš©
+// ê´€ë¡€ì ìœ¼ë¡œ ëŒ€ë¬¸ìë¡œ ì„ ì–¸
 
 public class Final {
 
@@ -14,7 +14,7 @@ public class Final {
 		
 		circleArea = radius * radius * PI;
 		
-		System.out.println("¿øÀÇ ¸éÀû : " + circleArea);
+		System.out.println("ì›ì˜ ë©´ì  : " + circleArea);
 	
 	}
 
